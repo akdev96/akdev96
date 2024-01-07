@@ -16,6 +16,7 @@ Knowledge is not my problem. Doing something with that knowledge is where you co
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akdev96&layout=compact)](https://github.com/akdev96)
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=akdev96&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
 
 <!--
 **akdev96/akdev96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
