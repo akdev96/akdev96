@@ -14,6 +14,9 @@ Knowledge is not my problem. Doing something with that knowledge is where you co
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akdev96&layout=compact)](https://github.com/akdev96)
+
 <!--
 **akdev96/akdev96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
