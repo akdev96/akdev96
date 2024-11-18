@@ -18,7 +18,7 @@ Knowledge is not my problem. Doing something with that knowledge is where you co
 ---
 
 ![akdev96's Stats](https://github-readme-stats.vercel.app/api?username=akdev96&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![akdev96's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akdev96&theme=tokyonight&hide_border=true)
+<!-- ![akdev96's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akdev96&theme=tokyonight&hide_border=true) -->
 ![akdev96's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akdev96&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 
